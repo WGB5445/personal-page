@@ -2,7 +2,7 @@
   "extends": "astro/tsconfigs/base",
   "compilerOptions": {
     "strictNullChecks": true,
-    "baseUrl": "C:/Users/91960/code/wgb5445/my/personal-page",
+    "baseUrl": ".",
     "paths": {
       "@/*": [
         "./src/*"
